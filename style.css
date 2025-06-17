@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(179, 72, 122);
+    background-color: rgb(221, 168, 195);
+}
+
+button{
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    color: rgb(77, 168, 253);
+}
